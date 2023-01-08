@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/1 Java 개요.md",
+                "file": "Error Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/1 Java 개요.md",
+                "file": "Error Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/1 Java 개요.md",
+                "file": "Error Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/1 Java 개요.md"
+                "file": "Error Note.md"
               }
             }
           },
@@ -138,23 +138,24 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "445616b3b9c57939",
+  "active": "2e1795fb853007ee",
   "lastOpenFiles": [
+    "error_note/Error Note a22447be488b4fa0ba1463b625eb13ba/제목 없는 데이터베이스 9d361f10e0c345f19a2662d6df3c895c/Error Rendered more hooks than during the previous 14ffad6f256e4a969c34d76eb91d4e8c.md",
+    "error_note/Error Note a22447be488b4fa0ba1463b625eb13ba/제목 없는 데이터베이스 9d361f10e0c345f19a2662d6df3c895c/Error input is a void element tag and must neither 729bbe34ef834a8ca4f97507d8383592.md",
+    "error_note/Error Note a22447be488b4fa0ba1463b625eb13ba/제목 없는 데이터베이스 9d361f10e0c345f19a2662d6df3c895c/docker container Django local server 실행 44a626b580c348e595552052adcdc6eb.md",
+    "error_note/Error Note a22447be488b4fa0ba1463b625eb13ba/제목 없는 데이터베이스 9d361f10e0c345f19a2662d6df3c895c/Django html local server update issue 74c8d0a4ef4349b58bd1bc58679e270e.md",
+    "error_note/Error Note a22447be488b4fa0ba1463b625eb13ba/제목 없는 데이터베이스 9d361f10e0c345f19a2662d6df3c895c/ChunkLoadError Loading chunk node_modules next dis 43b09aeef01146568d37d7d99267d393.md",
+    "error_note/Error Note a22447be488b4fa0ba1463b625eb13ba/제목 없는 데이터베이스 9d361f10e0c345f19a2662d6df3c895c/‘module’ is not defined 9d21475b6a6b4244a395e9acadc85fc8.md",
+    "error_note/Error Note a22447be488b4fa0ba1463b625eb13ba.md",
+    "Java/1 Java 개요.md",
     "Java/Java 문법 정리.md",
-    "Java/Error Exception.md",
-    "Java/18 Network.md",
-    "Java/17 java io.md",
-    "Java/15 유용한 Class.md",
-    "Java/14 Collection Framework.md",
-    "Java/13 java lang ~.md",
-    "Java/12 Exception.md",
-    "Java/11 inheritance interface polymorph.md",
-    "Java/2 Variable 형변환.md"
+    "Java/Error Exception.md"
   ]
 }
