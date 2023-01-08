@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "82efde01ead03cf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3e6e7c9b1148773",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "445616b3b9c57939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/1 Java 개요.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8e065e9bba5bdf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e72b1e1e9a014920",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b26005ffe68e263",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33e218547aae6d77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5764c140fbd9acfa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ab6369eeb9337c35",
+    "type": "split",
+    "children": [
+      {
+        "id": "41bbc717edd5cf1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f8c9dd2950e3ce5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java/1 Java 개요.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14af7f7a21d86016",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java/1 Java 개요.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "045518c4e20c4de6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2e1795fb853007ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java/1 Java 개요.md"
+              }
+            }
+          },
+          {
+            "id": "6b700e67ceca45c0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "445616b3b9c57939",
+  "lastOpenFiles": [
+    "Java/Java 문법 정리.md",
+    "Java/Error Exception.md",
+    "Java/18 Network.md",
+    "Java/17 java io.md",
+    "Java/15 유용한 Class.md",
+    "Java/14 Collection Framework.md",
+    "Java/13 java lang ~.md",
+    "Java/12 Exception.md",
+    "Java/11 inheritance interface polymorph.md",
+    "Java/2 Variable 형변환.md"
+  ]
+}
